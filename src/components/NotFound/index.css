@@ -1,0 +1,14 @@
+.notFound-con {
+  text-align: center;
+  margin-top: 80px;
+}
+.notImg {
+  height: 350px;
+  width: 350px;
+}
+.notH {
+  color: #6d396b;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 45px;
+}

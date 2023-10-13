@@ -1,0 +1,17 @@
+.about-container {
+  text-align: center;
+  margin-top: 150px;
+}
+.aboutImg {
+  height: 200px;
+  width: 200px;
+}
+.aboutHeading {
+  color: #6d396b;
+  font-family: 'Roboto';
+}
+.para1 {
+  color: #555555;
+  font-size: 24px;
+  font-weight: 400;
+}

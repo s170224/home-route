@@ -1,0 +1,13 @@
+.contact-con {
+  text-align: center;
+  margin-top: 150px;
+}
+.contactImg {
+  height: 200px;
+  width: 200px;
+}
+
+.contact-heading {
+  color: #6d396b;
+  font-family: 'Roboto';
+}

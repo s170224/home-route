@@ -1,0 +1,30 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading1 {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  padding: 20px;
+  color: #6d396b;
+}
+.li-con {
+  list-style-type: none;
+}
+.image1 {
+  height: 40px;
+  width: 50px;
+  margin-top: 25px;
+}
+.imag-con {
+  display: flex;
+  flex-direction: row;
+}
+.home-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  align-items: flex-end;
+}

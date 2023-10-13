@@ -1,0 +1,12 @@
+.main-con {
+  text-align: center;
+  margin-top: 150px;
+}
+.homeImg {
+  height: 200px;
+  width: 200px;
+}
+.homeHeading {
+  color: #6d396b;
+  font-family: 'Roboto';
+}
